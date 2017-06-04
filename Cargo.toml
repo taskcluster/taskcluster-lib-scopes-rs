@@ -1,0 +1,6 @@
+[package]
+name = "taskcluster-lib-scopes"
+version = "0.1.0"
+authors = ["Brian Stack <bstack@mozilla.com>"]
+
+[dependencies]
