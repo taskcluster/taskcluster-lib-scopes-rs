@@ -3,4 +3,10 @@ name = "taskcluster-lib-scopes"
 version = "0.1.0"
 authors = ["Brian Stack <bstack@mozilla.com>"]
 
+description = "Simple utilities to validate scopes, scope-sets, and scope-set satisfiability."
+readme = "README.md"
+keywords = ["taskcluster"]
+repository = "https://github.com/taskcluster/taskcluster-lib-scopes-rs"
+license = "MPL-2.0"
+
 [dependencies]
